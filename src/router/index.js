@@ -5,9 +5,11 @@ Vue.use(VueRouter)
 
 
 import Servers from "../components/servers/Servers.vue"
+import NotFound from "../components/NotFound.vue"
 
 const routes = [
-  { path: '*', component: Servers }
+  { path: 'servers', component: Servers },
+  { path: '*', component: NotFound }
 ]
 
 const router = new VueRouter({
