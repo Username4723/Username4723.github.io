@@ -1,16 +1,14 @@
 <template>
   <div style="margin-left: 10%; margin-right: 10%">
     <b-card bg-variant="transparent" text-variant="light" border-variant="dark">
-      <Servers/>
+      <router-view></router-view>
     </b-card>
   </div>
 </template>
 
 <script>
-import Servers from "./servers/Servers.vue"
 
 export default {
-  components: { Servers },
   name: 'MainPage'
 }
 </script>
