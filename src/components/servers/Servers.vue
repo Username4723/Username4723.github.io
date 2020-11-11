@@ -69,15 +69,14 @@
 </template>
 
 <script>
+import servers from './servers.json'
+import images from './images.json'
+
 export default {
-  props: {
-    images: {
-      type: Object,
-      required: true
-    },
-    servers: {
-      type: Object,
-      required: true
+  data: function() {
+    return {
+      servers: servers,
+      images: images
     }
   }
 }

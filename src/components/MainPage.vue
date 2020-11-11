@@ -1,25 +1,15 @@
 <template>
   <div style="margin-left: 10%; margin-right: 10%">
     <b-card bg-variant="transparent" text-variant="light" border-variant="dark">
-      <Servers :images="images" :servers="servers"/>
+      <Servers/>
     </b-card>
   </div>
 </template>
 
 <script>
-import Servers from "./Servers.vue"
+import Servers from "./servers/Servers.vue"
 
 export default {
-  props: {
-    servers: {
-      type: Object,
-      required: true
-    },
-    images: {
-      type: Object,
-      required: true
-    }
-  },
   components: { Servers },
   name: 'MainPage'
 }

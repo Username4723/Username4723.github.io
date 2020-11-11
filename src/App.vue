@@ -3,7 +3,7 @@
     <div id="background">
       <canvas ref="background" id="bacgkround"></canvas>
     </div>
-    <MainPage :servers="this.$root.servers" :images="this.$root.images"/>
+    <MainPage/>
   </div>
 </template>
 
