@@ -1,5 +1,9 @@
 <template>
-  <div style="margin-left: 10%; margin-right: 10%">
+  <div style="padding: 3%">
+    <b-card bg-variant="transparent" text-variant="light" border-variant="dark">
+      <b-card-title>Nathan Nguyen</b-card-title>
+    </b-card>
+    <br/>
     <b-card bg-variant="transparent" text-variant="light" border-variant="dark">
       <router-view></router-view>
     </b-card>
