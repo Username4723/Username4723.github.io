@@ -6,6 +6,9 @@ Vue.use(VueRouter)
 
 import Server from "../components/projects/server/Server.vue"
 import Dnd from "../components/projects/Dnd.vue"
+
+import Contact from "../components/about/Contact.vue"
+
 import NotFound from "../components/NotFound.vue"
 import WorkInProgress from "../components/WorkInProgress.vue"
 
@@ -14,7 +17,7 @@ const routes = [
   { path: '/about/skills', component: WorkInProgress },
   { path: '/about/competitions', component: WorkInProgress },
   { path: '/about/experience', component: WorkInProgress },
-  { path: '/about/contact', component: WorkInProgress },
+  { path: '/about/contact', component: Contact },
   { path: '/projects/server', component: Server },
   { path: '/projects/dnd', component: Dnd },
   { path: '*', component: NotFound }
