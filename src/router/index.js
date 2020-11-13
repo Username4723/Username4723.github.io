@@ -9,11 +9,13 @@ import Dnd from "../components/projects/Dnd.vue"
 
 import Contact from "../components/about/Contact.vue"
 
+import HomePage from "../components/HomePage.vue"
+
 import NotFound from "../components/NotFound.vue"
 import WorkInProgress from "../components/WorkInProgress.vue"
 
 const routes = [
-  { path: '/', component: WorkInProgress },
+  { path: '/', component: HomePage },
   { path: '/about/skills', component: WorkInProgress },
   { path: '/about/competitions', component: WorkInProgress },
   { path: '/about/experience', component: WorkInProgress },
