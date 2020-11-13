@@ -3,7 +3,7 @@
     <b-carousel id="servers" controls indicators fade :interval="3000">
       <b-carousel-slide v-for="image in Object.keys(images)" :key="image" :img-src="'/screenshots/' + image" :caption="servers[image.split('-')[0]].name" :text="images[image]">
         <b-button variant="success" @click="$bvModal.show(image.split('-')[0])">Join Now!</b-button>
-        <b-button variant="success" :href="'https://' + image.split('-')[0] + '-map.nathann5684.tk:2096/'" v-if="servers[image.split('-')[0]].map">View Map</b-button>
+        <b-button variant="success" :href="'https://' + image.split('-')[0] + '-map.red5684.tk:2096/'" v-if="servers[image.split('-')[0]].map">View Map</b-button>
       </b-carousel-slide>
     </b-carousel>
 
@@ -40,13 +40,13 @@
           <b-badge variant="primary" pill>3</b-badge>
           <span> Connect via the IP </span>
           <template v-if="servers[server].version == '1.7.10'">
-            <b>{{server}}.nathann5684.tk</b>
+            <b>{{server}}.red5684.tk</b>
             <span>. Connecting via the 'standard' IP will crash your game.</span>
           </template>
           <template v-else>
-            <b>{{server}}.nathann5684.tk</b>
+            <b>{{server}}.red5684.tk</b>
             <span>. If this fails, join via </span>
-            <b>lobby.nathann5684.tk</b>
+            <b>lobby.red5684.tk</b>
             <span>. Run the command </span>
             <b>/sub start {{server}}</b>
             <span>. Leave the server, wait two minutes for the server to start, and then reconnect via the regular IP.</span>
@@ -57,7 +57,7 @@
           <template>
             <span> If you cannot join, </span>
             <span>connect via the IP </span>
-            <b>lobby.nathann5684.tk</b>
+            <b>lobby.red5684.tk</b>
             <span>. Run the command </span>
             <b>/sub start {{server}}</b>
             <span>. Leave the server, wait five minutes for the server to start, and then reconnect via the regular IP.</span>
