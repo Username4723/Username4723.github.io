@@ -24,10 +24,10 @@
 
     <b-card-title>Me as a DM</b-card-title>
     The Rule of Cools in effect. If you want to join with the most overpowered character you can think of using homebrew exclusively from dandwiki, I'm fine with it.
-    However, keep in mind that for each and every bit of cheese there is an equal and opposite reaction.
+    Howeder, do keep in mind that for each and every bit of cheese there is an equal and opposite reaction.
     <br/>
-    I typically run a more open world than a traditional linear plot. However, this campaign does have a somewhat fixed plot. While there are sidequests and plenty of room for you to change the big picture, there is an intended course of events.
-    This is still mostly open-world, however. If you want to blow up the moon and use dark magic to enslave the world, you can. If you derail the entire campaign, the world will react.
+    I typically run a more open world than a traditional linear plot. Unlike normal, this campaign does have a somewhat fixed plot. While there are sidequests and plenty of room for you to change the big picture, there is an intended course of events.
+    This is still mostly open-world, though. If you want to blow up the moon and use dark magic to enslave the world, you can. If you derail the entire campaign, the world will react.
     <br/>
     NPCs are people, too. The boss will not sit still while you take your time killing their minions. If you stand outside the boss room for an hour planning, expect the boss to be listening through the door. If you kill someone, there will be people who miss them, and people who will want revenge for their death.
     Your character's actions can have consequences.
