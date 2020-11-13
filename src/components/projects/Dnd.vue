@@ -1,6 +1,6 @@
 <template>
   <div>
-    <b-card-title>ArcanaxTechxFantasy</b-card-title>
+    <b-card-title>D&D</b-card-title>
     Surprise! I'm a massive nerd!
     <br/>
     ...
