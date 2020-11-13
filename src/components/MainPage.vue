@@ -1,7 +1,7 @@
 <template>
   <div style="padding: 3%">
     <b-card bg-variant="transparent" text-variant="light" border-variant="dark">
-      <b-card-title>Nathan Nguyen</b-card-title>
+      <b-card-title>Nathan</b-card-title>
       <b-navbar :toggleable="false" type="dark" variant="info">
         <b-navbar-brand to="/">Home</b-navbar-brand>
         <b-collapse id="nav-text-collapse" is-nav>

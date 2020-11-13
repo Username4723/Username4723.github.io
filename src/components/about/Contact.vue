@@ -1,7 +1,7 @@
 <template>
   <div>
     <b-card-title>Contact Me</b-card-title>
-    Email: nate.nguyen.5684@gmail.com
+    Email (Personal): navarrestarlight@gmail.com
     <br/>
     Discord: Red~#7878
     <br/>
