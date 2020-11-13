@@ -16,6 +16,12 @@ export default {
   components: {
     MainPage
   },
+  data: function() {
+    return {
+      seed: Math.random().toString(36)
+    };
+  },
+
   mounted: function() {
     this.generateBackground();
   },
@@ -32,7 +38,7 @@ export default {
       trianglify({
         width: screen.width,
         height: screen.height,
-        seed: 12345
+        seed: this.seed
       }).toCanvas(this.$refs.background);
     }
   }
