@@ -13,8 +13,9 @@
             </b-nav-item-dropdown>
 
             <b-nav-item-dropdown text="Projects">
-              <b-dropdown-item to="/projects/dnd">Dungeons & Dragons</b-dropdown-item>
               <b-dropdown-item to="/projects/server">Minecraft Server</b-dropdown-item>
+              <b-dropdown-item to="/projects/reading">Reading</b-dropdown-item>
+              <b-dropdown-item to="/projects/dnd">Dungeons & Dragons</b-dropdown-item>
             </b-nav-item-dropdown>
           </b-navbar-nav>
         </b-collapse>

@@ -5,6 +5,7 @@ Vue.use(VueRouter)
 
 
 import Server from "../components/projects/server/Server.vue"
+import Reading from "../components/projects/Reading.vue"
 import Dnd from "../components/projects/Dnd.vue"
 
 import Contact from "../components/about/Contact.vue"
@@ -25,6 +26,7 @@ const routes = [
   { path: '/about/contact', component: Contact },
 
   { path: '/projects/server', component: Server },
+  { path: '/projects/reading', component: Reading },
   { path: '/projects/dnd', component: Dnd },
 
   { path: '*', component: NotFound }
