@@ -7,9 +7,8 @@
         <b-collapse id="nav-text-collapse" is-nav>
           <b-navbar-nav>
             <b-nav-item-dropdown text="About Me">
-              <b-dropdown-item to="/about/skills">Skills & Talents</b-dropdown-item>
-              <b-dropdown-item to="/about/competitions">Past Competitions</b-dropdown-item>
-              <b-dropdown-item to="/about/experience">Experience & Education</b-dropdown-item>
+              <b-dropdown-item to="/about/skills">Thing I Can Do</b-dropdown-item>
+              <b-dropdown-item to="/about/experience">Things I Have Done</b-dropdown-item>
               <b-dropdown-item to="/about/contact">Contact Me</b-dropdown-item>
             </b-nav-item-dropdown>
 

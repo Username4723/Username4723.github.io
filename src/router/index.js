@@ -17,7 +17,6 @@ import WorkInProgress from "../components/WorkInProgress.vue"
 const routes = [
   { path: '/', component: HomePage },
   { path: '/about/skills', component: WorkInProgress },
-  { path: '/about/competitions', component: WorkInProgress },
   { path: '/about/experience', component: WorkInProgress },
   { path: '/about/contact', component: Contact },
   { path: '/projects/server', component: Server },
