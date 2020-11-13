@@ -8,13 +8,16 @@
     Okay, that wasn't a surprise.
     <br/>
     <br/>
-    I occasionally playy D&D. My current campaign is, as stated above, ArcanaxTechxFantasy, using the 5th edition rules.
+    I occasionally play D&D. I haven't played it in a few months, but whatever. My current planned campaign is ArcanaxTechxFantasy, using the 5th edition rules.
     <br/>
-    Right now, it has exactly 0 players. Expect it to be a while before we have enough people to play.
+    Right now, it has exactly 0 players. Expect it to be a while before I actually play D&D again.
     <br/>
     The campaign is set in a sci-fi world, with aspects of fantasy and magic intertwined along the way. The world has its own rich history, which players will get to explore firsthand.
     If you join, expect swords, combat, and fighting, but also a rich set of NPCs to interact with and learn from. Expect unique cultures, religions, and enemies. Expect vast kingdoms to explore, massive metropolises, and wastelands where you will barely survive.
     You can see the world's history play out before your very eyes. You might save the world, or through your actions, doom it instead. Its fate is in your hands.
+    <br/>
+    <br/>
+    Oh, if you want an optimized character build, let me know.
 
     <br/>
     <br/>
